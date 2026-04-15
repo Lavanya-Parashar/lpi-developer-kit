@@ -3,10 +3,10 @@
 ## Sandbox Validation
 Successfully ran the full LPI sandbox locally.
 
-### Test Client Output
-- All **8/8 tool tests passed**
-- LPI sandbox connected successfully
-- Verified SMILE methodology tools, case studies, insights, and methodology steps
+## Test Client Output
+Command run:
+```bash
+npm run test-client
 
 ## Local LLM Integration
 Integrated a **local Ollama model** into my workflow and used it later as the reasoning engine inside my Level 3 agent.
