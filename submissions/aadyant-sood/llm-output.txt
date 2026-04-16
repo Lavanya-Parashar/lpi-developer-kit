@@ -1,0 +1,11 @@
+Model Used: TinyLlama via Ollama (local LLM)
+
+Prompt:
+Explain SMILE methodology in simple terms and how it relates to digital twins.
+
+Response:
+The SMILE methodology is a structured approach used to model real-world systems as digital twins. It includes stages such as sensing data, modeling systems, integrating information, learning patterns, and executing insights.
+
+In digital twins, SMILE helps convert real-world inputs like health or environment data into a virtual model that can be analyzed. This allows systems to generate insights and improve decision-making.
+
+For example, a personal health digital twin can track sleep, energy, and stress, and use SMILE to generate actionable insights.
