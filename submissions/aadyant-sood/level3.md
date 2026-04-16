@@ -30,3 +30,5 @@ Output: “Your energy dips after 2 PM, consider taking a short break.”
 - dashboard.png
 - HOW_I_DID_IT.md
 - figma-link.txt
+
+Updated agent logic and error handling.
