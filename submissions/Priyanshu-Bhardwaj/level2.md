@@ -1,7 +1,8 @@
-<h2> Track A <h2>
+# Track A 
 
-### $\color{green}{\text{ Test Client Output-}}$
+### Test Client Output-
 
+```
 G15@G15 MINGW64 ~/lpi-developer-kit (master)
 $ npm run test-client
 
@@ -57,7 +58,9 @@ Failed: 0/8
 All tools working. Your LPI Sandbox is ready.
 You can now build agents that connect to this server.  
 
-### $\color{green}{\text{LLM output-}}$
+```
+
+### LLM output-
 
  An agentic AI is an AI system that can act autonomously to achieve goals, rather than just responding to prompts. Think of it like the difference between a calculator and
 a financial analyst:
@@ -89,7 +92,7 @@ Your workspace has agents running that:
 
 It's like having a team of digital employees working alongside you, not just a single chatbot responding to commands.
 
-### $\color{green}{\text{What suprised me about SMILE-}}$
+### What suprised me about SMILE-
 
 1) I was surprised by the Impact First sequence.
 
@@ -97,9 +100,9 @@ It's like having a team of digital employees working alongside you, not just a s
 
 3) It was also suprising to see that Ontology Factories are treated as a mandatory architectural foundation for AI Factories.
 
-<h2> Track D <h2>
+# Track D 
 
-### A Reality Canvas is a live 3D model of a building. It combines a 3D model with real time sensor data like heat and movement. This gives the AI a 4D foundation to understand the physical world, allowing it to simulate and test the facade movements in a virtual environment before actually moving the physical parts.
+A Reality Canvas is a live 3D model of a building. It combines a 3D model with real time sensor data like heat and movement. This gives the AI a 4D foundation to understand the physical world, allowing it to simulate and test the facade movements in a virtual environment before actually moving the physical parts.
 
 
 
