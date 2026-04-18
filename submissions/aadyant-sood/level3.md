@@ -43,3 +43,14 @@ This approach aligns with how digital twin systems function.
 - figma-link.txt
 
 Updated agent logic and error handling.
+
+## Real Example Output
+
+Input: sleep=5, energy=4, stress=6  
+Output: Energy dip expected. Take a break  
+Reason: Low sleep detected  
+
+Tools used:
+- smile_overview  
+- query_knowledge  
+- analyze_patterns  
