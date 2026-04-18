@@ -130,4 +130,3 @@ This aligns with how real-world digital twin systems operate.
 * dashboard.png
 * HOW_I_DID_IT.md
 * figma-link.txt
-"final trigger tool calls" 
