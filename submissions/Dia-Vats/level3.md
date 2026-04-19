@@ -1,5 +1,4 @@
-# Level 3 Submission — Track A: Agent Builders
-**PR Title:** level-3: Dia Vats
+# Level 3 Submission Dia Vats
 
 ## Agent Repository
 https://github.com/Diavats/LPI-AI-agent
@@ -15,10 +14,10 @@ Every claim in the output is traced back to a specific LPI tool — based on
 the provenance block printed after each response.
 
 ## LPI Tools Used
-- `smile_overview` — SMILE methodology foundation and phase structure
-- `get_insights` — personalised health digital twin guidance for user scenario
-- `query_knowledge` — knowledge base searched using the actual user complaint
-- `get_case_studies` — real-world digital twin implementation examples
+- `smile_overview` - SMILE methodology foundation and phase structure
+- `get_insights` - personalised health digital twin guidance for user scenario
+- `query_knowledge` - knowledge base searched using the actual user complaint
+- `get_case_studies` - real-world digital twin implementation examples
 
 ## Setup Instructions
 
@@ -89,8 +88,7 @@ Included as `agent.json` in the repository root. Describes capabilities,
 LPI tools used, security properties, explainability approach, and runtime.
 
 ## What I learned
-I noticed that connecting raw health numbers to SMILE phases required
-more context than I expected — the get_insights tool surprised me with
+Working on this ai agent, I noticed that connecting raw health numbers to SMILE phases required more context than I expected. The get_insights tool surprised me with
 how specifically it mapped personal scenarios to methodology phases.
-I realized input validation matters more than I thought when the agent
+I also realized input validation matters more than I thought when the agent
 is the only layer between user text and subprocess calls.
