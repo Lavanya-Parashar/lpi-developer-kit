@@ -95,6 +95,19 @@ What makes SMILE distinctive is its radical reversal of the conventional approac
 
 I recommended this configuration because the LPI wind tunnel tool returned a drag coefficient of 0.32 at 50 m/s, which is lower than the baseline of 0.41. This reduction directly improves aerodynamic efficiency. The recommendation is based on those tool outputs, not on assumptions.
 
+## Out-of-Instructions and Things-to-be-done-differently:
+
+Choice made: I invested heavily in error handling (49 checks) even though the instructions didn’t demand it. My reasoning: a brittle agent that crashes mid-run is worse than one missing features. Stability was my first priority.
+
+Independent decision: I deliberately kept the repo modular so future tool integrations (like LPI calls) can be slotted in without rewriting the core. That wasn’t in the instructions, but it reflects my engineering philosophy: build for extensibility.
+
+What I’d do differently: Next time, I’d reverse the order — implement mandatory features first (tool calls, explainability), then add robustness. I’d also expose tool calls in the repo so evaluators can trace them directly, instead of relying on documentation.
+
+Integrate at least two LPI tool calls directly into the agent code.
+
+Add an explainability module with traceable decision paths.
+
+Rebalance priorities so required features come before enhancements.
 
 
 
