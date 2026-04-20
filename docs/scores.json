@@ -422,5 +422,13 @@
     "max": 13,
     "pct": 85,
     "note": "Manual score - evaluator missed due to placeholder github username. L2+L3+L4 submitted with agent, security audit, threat model, A2A."
+  },
+  "level-3-:-abhishek-sharma": {
+    "name": "Level-3 : Abhishek Sharma",
+    "level": 3,
+    "score": 7,
+    "max": 13,
+    "pct": 54,
+    "updated": "2026-04-20T04:26:26.010Z"
   }
 }
