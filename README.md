@@ -2,7 +2,11 @@
 
 **Build AI agents on the Life Programmable Interface.**
 
-> **DEADLINE: Sunday April 20, 23:59 UTC.** All Level 3 submissions must be in by then. No exceptions.
+> **DEADLINE PASSED: April 20, 2026.** Submissions are now being reviewed. L4 PRs still accepted — push yourself.
+>
+> **Results:** 53 scored | 47 at L3 | 4 merged L4 | 4 open L4 PRs
+>
+> **Top performers:** See [scores.json](docs/scores.json) for full leaderboard. Share your achievement on LinkedIn — tag @WINNIIO, @Nicolas Waern, @Life Atlas.
 
 The LPI is an open MCP server with 7 tools exposing the [SMILE methodology](https://lifeatlas.online) — a digital twin implementation framework. This repo is your sandbox AND the entry point for the **LifeAtlas Contributor Program**.
 
@@ -293,6 +297,21 @@ In `submissions/your-name/level4/`:
 PR title: `level-4: Your Name`
 
 **This is the deep end.** No hand-holding. No templates. If you can do this, you're not an intern — you're a contributor.
+
+---
+
+### Reflections — HOW_I_DID_IT Examples
+
+The best submissions show real thinking in their `HOW_I_DID_IT.md`. These are worth reading:
+
+| Contributor | Level | What stands out |
+|-------------|-------|-----------------|
+| [Shubham Kumar](submissions/shubham-kumar/level3/HOW_I_DID_IT.md) | L4 | Problem-solving under constraints, production thinking |
+| [Daksh Garg](submissions/daksh-garg/level4/security_audit.md) | L4 | 10+ attack vector security audit with fixes |
+| [Sanskriti](submissions/sanskriti/HOW_I_DID_IT.md) | L4 | Analogical reasoning across industries, research rigor |
+| [Shourya Solanki](submissions/shourya-solanki/HOW_I_DID_IT.md) | L4 | External repo + working demo |
+
+**Your reflection matters.** It shows us how you think — not just what you built. Write it like you're explaining to a teammate who needs to pick up your code tomorrow.
 
 ---
 
